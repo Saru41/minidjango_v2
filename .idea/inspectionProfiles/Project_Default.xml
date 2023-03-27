@@ -1,0 +1,103 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CommandLineInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PoetryPackageVersionsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyAbstractClassInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyArgumentListInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyAssignmentToLoopOrWithParameterInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyAsyncCallInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyByteLiteralInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyCallingNonCallableInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyClassHasNoInitInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyClassVarInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyComparisonWithNoneInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyDataclassInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDecoratorInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDefaultArgumentInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDeprecationInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDictCreationInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDictDuplicateKeysInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDocstringTypesInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyDunderSlotsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyExceptClausesOrderInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyExceptionInheritInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyFinalInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyFromFutureImportInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyGlobalUndefinedInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyInconsistentIndentationInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyIncorrectDocstringInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyInitNewSignatureInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyInterpreterInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyListCreationInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMethodFirstArgAssignmentInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMethodOverridingInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMethodParametersInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMissingConstructorInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyNamedTupleInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyNestedDecoratorsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyNonAsciiCharInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyNoneFunctionAssignmentInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyOldStyleClassesInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyOverloadsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR">
+      <option name="ignoredPackages">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyPropertyAccessInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyPropertyDefinitionInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyProtectedMemberInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyProtocolInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyRedeclarationInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyRelativeImportInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyReturnFromInitInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PySetFunctionToLiteralInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PySingleQuotedDocstringInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyStatementEffectInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyStringFormatInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyStubPackagesCompatibilityInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PySuperArgumentsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTestParametrizedInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTrailingSemicolonInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTupleAssignmentBalanceInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTupleItemAssignmentInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTypeHintsInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyTypedDictInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyUnnecessaryBackslashInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+    <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="GRAMMAR_ERROR" enabled_by_default="true" editorAttributes="GRAMMAR_ERROR" />
+  </profile>
+</component>

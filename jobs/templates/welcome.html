@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WELCOME</title>
+</head>
+<body>
+
+<h1>{{message}}, welcome to this application</h1>
+<h2>Here is the list of cricketers</h2>
+
+{% for item in cricketers %}
+        <li>{{item}}</li>
+{% endfor %}
+
+</body>
+</html>
